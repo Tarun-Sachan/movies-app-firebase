@@ -1,7 +1,7 @@
 # movies-app-firebase
        
      
-   App fetches data from firebase database to gather data for movies and user also has option to update movies list.
+   App fetche data from Firebase Realtime Database to gather data for movies and user also has option to update movies list.
 
 ## [Live Demo](https://tarun-sachan.github.io/movies-app-firebase/)
 
