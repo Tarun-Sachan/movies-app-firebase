@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/movies-app-firebase/static/css/main.6a44afe8.css",
+    "main.js": "/movies-app-firebase/static/js/main.b226f6cc.js",
+    "index.html": "/movies-app-firebase/index.html",
+    "main.6a44afe8.css.map": "/movies-app-firebase/static/css/main.6a44afe8.css.map",
+    "main.b226f6cc.js.map": "/movies-app-firebase/static/js/main.b226f6cc.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6a44afe8.css",
+    "static/js/main.b226f6cc.js"
+  ]
+}
